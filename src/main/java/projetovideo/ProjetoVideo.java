@@ -7,16 +7,6 @@ import java.util.stream.Collectors;
 public class ProjetoVideo {
     public static void main(String[] args) {
 
-       /* List<String> Video = new ArrayList<>();
-        Video.add("Aula 1 de Poo");
-        Video.add("Aula 12 de PHP");
-        Video.add("Aula 10 de HTML");
-
-       List<String> novoVideo = Video.stream()
-                .filter(nome -> nome.startsWith("A"))
-                .map(nome -> nome.toUpperCase())
-                .collect(Collectors.toList());
-               System.out.println(novoVideo);*/
 
      Video v[] = new Video[7];
      v[0] = new Video("Como Aprender Java em 7 dias");
@@ -77,9 +67,6 @@ public class ProjetoVideo {
 
 
 
-/*
-     System.out.println(v[0].toString());
-     System.out.println(u[0].toString());*/
 
 
 
