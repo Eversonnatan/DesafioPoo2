@@ -1,2 +1,2 @@
 # DesafioPoo
-Implementação de um algoritmo sobre os 4 pilares da Programção orientada a objeto.
+Implementação de um algoritmo sobre os 4 pilares da Programação orientada a objeto.
